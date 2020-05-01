@@ -1,14 +1,14 @@
 [
     {
-        "Name": "MCmodding4K",
-        "TwitterName": "@MCmodding4K",
-        "TwitterURL": "https://twitter.com/MCmodding4K",
-        "YouTubeName": "MCmodding4K",
-        "YouTubeURL": "https://youtube.com/MCmodding4K",
-        "Website": "https://skillclient.com",
+        "Name": "YuBao",
+        "TwitterName": "@YuBao",
+        "TwitterURL": "https://twitter.com/YuBao",
+        "YouTubeName": "YuBao",
+        "YouTubeURL": "https://youtube.com/YuBao",
+        "Website": "https://",
         "Credits": {
-            "0": "Shared his BungeeHack with us.",
-            "1": "Helped us with ClickGUI slidersQ."
+            "0": "Created YuakeoCraft client",
+            "1": "Update more function"
         }
     }
 ]
