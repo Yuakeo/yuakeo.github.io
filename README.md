@@ -1,12 +1,12 @@
-# LiquidCloud
+# YuakeoCraft
 
-A storage repository for our client [LiquidBounce](https://liquidbounce.net/)
+A storage repository for our client [YuakeoCraft](https://yuakeo.github.io)
 
-Website: <https://liquidbounce.net> \
-Forum: <https://forum.ccbluex.net/index.php> \
-Discord: <https://discord.gg/gdQ82He> \
-YouTube: <https://youtube.com/CCBlueX> \
-Twitter: <https://twitter.com/CCBlueX>
+Website: <https://> \
+Forum: <https://> \
+Discord: <https://> \
+YouTube: <https://> \
+Twitter: <https://>
 
 ## Contributing
 
